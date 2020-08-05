@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MX - Las Estrellas">
+    <display-name lang="es">MX - Las Estrellas</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal 5">
+    <display-name lang="es">MX - Canal 5</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Azteca 7">
+    <display-name lang="es">MX - Azteca 7</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - El Nu9ve">
+    <display-name lang="es">MX - El Nu9ve</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOROtv">
+    <display-name lang="es">MX - FOROtv</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal Once">
+    <display-name lang="es">MX - Canal Once</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Azteca 13">
+    <display-name lang="es">MX - Azteca 13</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal 4">
+    <display-name lang="es">MX - Canal 4</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Excelsior TV">
+    <display-name lang="es">MX - Excelsior TV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - A+">
+    <display-name lang="es">MX - A+</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TV UNAM">
+    <display-name lang="es">MX - TV UNAM</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - adn40">
+    <display-name lang="es">MX - adn40</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX">
+    <display-name lang="es">MX - FOX</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Universal Channel">
+    <display-name lang="es">MX - Universal Channel</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TNT">
+    <display-name lang="es">MX - TNT</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Warner Channel">
+    <display-name lang="es">MX - Warner Channel</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Sony">
+    <display-name lang="es">MX - Sony</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - AXN">
+    <display-name lang="es">MX - AXN</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - E!">
+    <display-name lang="es">MX - E!</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Syfy">
+    <display-name lang="es">MX - Syfy</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - A&amp;E Mundo">
+    <display-name lang="es">MX - A&amp;E Mundo</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Space">
+    <display-name lang="es">MX - Space</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - ESPN">
+    <display-name lang="es">MX - ESPN</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Sports">
+    <display-name lang="es">MX - FOX Sports</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Discovery Channel">
+    <display-name lang="es">MX - Discovery Channel</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - National Geographic">
+    <display-name lang="es">MX - National Geographic</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Investigation Discovery">
+    <display-name lang="es">MX - Investigation Discovery</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - History">
+    <display-name lang="es">MX - History</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Disney Channel">
+    <display-name lang="es">MX - Disney Channel</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Cartoon Network">
+    <display-name lang="es">MX - Cartoon Network</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Discovery Kids">
+    <display-name lang="es">MX - Discovery Kids</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Boomerang">
+    <display-name lang="es">MX - Boomerang</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - MTV">
+    <display-name lang="es">MX - MTV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - VH1">
+    <display-name lang="es">MX - VH1</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - AMC">
+    <display-name lang="es">MX - AMC</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Movies">
+    <display-name lang="es">MX - FOX Movies</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Cinemax">
+    <display-name lang="es">MX - Cinemax</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - HBO">
+    <display-name lang="es">MX - HBO</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TVE">
+    <display-name lang="es">MX - TVE</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - CNN en Español">
+    <display-name lang="es">MX - CNN en Español</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - AMC HD">
+    <display-name lang="es">MX - AMC HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Animal Planet">
+    <display-name lang="es">MX - Animal Planet</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Az Corazón">
+    <display-name lang="es">MX - Az Corazón</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Bandamax">
+    <display-name lang="es">MX - Bandamax</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - CNN">
+    <display-name lang="es">MX - CNN</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal 22">
+    <display-name lang="es">MX - Canal 22</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal 44 - udgtv">
+    <display-name lang="es">MX - Canal 44 - udgtv</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal 5 Galavision">
+    <display-name lang="es">MX - Canal 5 Galavision</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal 5 HD">
+    <display-name lang="es">MX - Canal 5 HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Canal NU">
+    <display-name lang="es">MX - Canal NU</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Cine Mexicano">
+    <display-name lang="es">MX - Cine Mexicano</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Cinecanal">
+    <display-name lang="es">MX - Cinecanal</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Cinecanal HD">
+    <display-name lang="es">MX - Cinecanal HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Comedy Central">
+    <display-name lang="es">MX - Comedy Central</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - De Película">
+    <display-name lang="es">MX - De Película</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - De Película HD">
+    <display-name lang="es">MX - De Película HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Discovery HD">
+    <display-name lang="es">MX - Discovery HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Discovery HD Theater">
+    <display-name lang="es">MX - Discovery HD Theater</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Discovery Home &amp; Health">
+    <display-name lang="es">MX - Discovery Home &amp; Health</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Discovery World HD">
+    <display-name lang="es">MX - Discovery World HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Disney Junior">
+    <display-name lang="es">MX - Disney Junior</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Disney XD">
+    <display-name lang="es">MX - Disney XD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Distrito Comedia">
+    <display-name lang="es">MX - Distrito Comedia</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - ESPN 2">
+    <display-name lang="es">MX - ESPN 2</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - ESPN 3">
+    <display-name lang="es">MX - ESPN 3</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - ESPN HD">
+    <display-name lang="es">MX - ESPN HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - ESPN+ HD">
+    <display-name lang="es">MX - ESPN+ HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - El Financiero Bloomberg">
+    <display-name lang="es">MX - El Financiero Bloomberg</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Europa Europa">
+    <display-name lang="es">MX - Europa Europa</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX 1 HD">
+    <display-name lang="es">MX - FOX 1 HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX 1 Oeste">
+    <display-name lang="es">MX - FOX 1 Oeste</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Action HD">
+    <display-name lang="es">MX - FOX Action HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Comedy HD">
+    <display-name lang="es">MX - FOX Comedy HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Family">
+    <display-name lang="es">MX - FOX Family</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Family HD">
+    <display-name lang="es">MX - FOX Family HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Family Oeste">
+    <display-name lang="es">MX - FOX Family Oeste</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Life">
+    <display-name lang="es">MX - FOX Life</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Movies HD">
+    <display-name lang="es">MX - FOX Movies HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Oeste HD">
+    <display-name lang="es">MX - FOX Oeste HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Sports 2">
+    <display-name lang="es">MX - FOX Sports 2</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FOX Sports 3">
+    <display-name lang="es">MX - FOX Sports 3</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FX">
+    <display-name lang="es">MX - FX</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - FX Movies">
+    <display-name lang="es">MX - FX Movies</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Film&amp;Arts">
+    <display-name lang="es">MX - Film&amp;Arts</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Glitz">
+    <display-name lang="es">MX - Glitz</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Golden">
+    <display-name lang="es">MX - Golden</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Golden Edge">
+    <display-name lang="es">MX - Golden Edge</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - HBO 2">
+    <display-name lang="es">MX - HBO 2</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - HBO Family">
+    <display-name lang="es">MX - HBO Family</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - HBO HD">
+    <display-name lang="es">MX - HBO HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - HBO Plus México">
+    <display-name lang="es">MX - HBO Plus México</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - History HD">
+    <display-name lang="es">MX - History HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - I-SAT">
+    <display-name lang="es">MX - I-SAT</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Max">
+    <display-name lang="es">MX - Max</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Max Prime México">
+    <display-name lang="es">MX - Max Prime México</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Milenio TV">
+    <display-name lang="es">MX - Milenio TV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - MuchMusic">
+    <display-name lang="es">MX - MuchMusic</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Más Chic">
+    <display-name lang="es">MX - Más Chic</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Nick 2">
+    <display-name lang="es">MX - Nick 2</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Nick Jr.">
+    <display-name lang="es">MX - Nick Jr.</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Nickelodeon">
+    <display-name lang="es">MX - Nickelodeon</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Platino">
+    <display-name lang="es">MX - Platino</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - RMS">
+    <display-name lang="es">MX - RMS</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Russia Today HD">
+    <display-name lang="es">MX - Russia Today HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Sony HD">
+    <display-name lang="es">MX - Sony HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Studio Universal">
+    <display-name lang="es">MX - Studio Universal</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TBS">
+    <display-name lang="es">MX - TBS</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TCM">
+    <display-name lang="es">MX - TCM</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TDN">
+    <display-name lang="es">MX - TDN</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TDN HD">
+    <display-name lang="es">MX - TDN HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TIIN">
+    <display-name lang="es">MX - TIIN</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TLNovelas">
+    <display-name lang="es">MX - TLNovelas</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - TNT HD">
+    <display-name lang="es">MX - TNT HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Telehit">
+    <display-name lang="es">MX - Telehit</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Telemundo">
+    <display-name lang="es">MX - Telemundo</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Tooncast">
+    <display-name lang="es">MX - Tooncast</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - Univision">
+    <display-name lang="es">MX - Univision</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - WOBI TV">
+    <display-name lang="es">MX - WOBI TV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - elgourmet">
+    <display-name lang="es">MX - elgourmet</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - truTV">
+    <display-name lang="es">MX - truTV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="MX - truTV HD">
+    <display-name lang="es">MX - truTV HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+</tv>
